@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+.env
+
+# Database
+*.sqlite3
+
+# Node.js
+node_modules/
+dist/
+build/
+.npm
+.eslintcache
+
+# Tooling
+.gemini/
+.idea/
+.vscode/
+*.log
+
+# Misc
+.DS_Store
+Thumbs.db
